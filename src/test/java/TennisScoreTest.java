@@ -6,11 +6,11 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class TennisScoreTest {
 
-    private TennisScore2 tennisScore;
+    private TennisScore tennisScore;
 
     @BeforeEach
     void setUp() {
-        tennisScore = new TennisScore2();
+        tennisScore = new TennisScore();
     }
 
     @Test

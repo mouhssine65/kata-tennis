@@ -1,4 +1,4 @@
-public class TennisScore2 {
+public class TennisScore {
 
 
     private int scoreA = 0;
